@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from pdf_parser.extract import extract_statement_data
+from pdf_parser.extract_data import extract_statement_data
 
 RAW_PDF_DIR = "data/raw_pdfs"
 OUTPUT_CSV_DIR = "data/extracted_csv"
