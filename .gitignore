@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 *.pyc
+extracted_csv/
+raw_pdfs/
